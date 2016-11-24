@@ -1,0 +1,9 @@
+Building Hanhcoin
+
+See doc/readme-qt.rst for instructions on building Hanhcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Hanhcoin.
+
+See doc/build-*.txt for instructions on building hanhcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Hanhcoin.
